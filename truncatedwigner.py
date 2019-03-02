@@ -118,7 +118,6 @@ ax4.set_xlabel('time (s)')
 
 plt.savefig('twa1_runout.pdf')
 plt.show()
-exit()
 
 
 # plot temperatures for the classical and counterdiabatic trajectories, for several t_f
