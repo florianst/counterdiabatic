@@ -4,4 +4,5 @@ This contains tools to simulate the efficient translation of laser-trapped atom 
 
 The protocol implemented here is described in D. Sels, Physical Review A 97, 040302 (2018). One of the simulations presented here is using the Truncated Wigner Approximation (TWA) of wavefunction time development presented there.
 
-Results and further documentation can be found in twa_documentation.pdf. Cite as Florian Störtz, Design of a Hybrid Trapping Scheme for an Optical Kagome Lattice Experiment. Master's thesis, University of Cambridge (2018).
+Results and further documentation can be found in twa_documentation.pdf. 
+Cite as Florian Störtz, Design of a Hybrid Trapping Scheme for an Optical Kagome Lattice Experiment. Master's thesis, University of Cambridge (2018).
